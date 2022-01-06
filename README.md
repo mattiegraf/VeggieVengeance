@@ -1,7 +1,7 @@
 # VEGGIE VENGEANCE
 
 
-Veggie Vengeance is a 2D fighting game made by Madison Graf, Wesley Yuen, Michael Zhang, Ali Arbabian, Jen Deluz, and Alexis Gervacio. This game won runner-up in the CPSC436D showcase, as judged by industry pros from Electronic Arts, Skybox Labs, etc. :)
+Veggie Vengeance is a 2D fighting game made by Mattie Graf, Wesley Yuen, Michael Zhang, Ali Arbabian, Jen Deluz, and Alexis Gervacio. This game won runner-up in the CPSC436D showcase, as judged by industry pros from Electronic Arts, Skybox Labs, etc. :)
 
 Please see below for a video of gameplay!
 
